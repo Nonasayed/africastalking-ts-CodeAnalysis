@@ -14,6 +14,6 @@
     "esm": "^3.2.25"
   },
   "dependencies": {
-    "config": "^3.3.1"
+    "config": "^3.3.9"
   }
 }
